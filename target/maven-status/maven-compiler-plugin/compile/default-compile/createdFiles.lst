@@ -1,0 +1,11 @@
+DAO\conexion.class
+model\encargado.class
+model\tienda.class
+DAO\testing.class
+DAO\encargadoDAO.class
+DAO\tiendaDAO.class
+model\registro.class
+controller\control.class
+DAO\ventaDAO.class
+DAO\registroDAO.class
+model\venta.class
